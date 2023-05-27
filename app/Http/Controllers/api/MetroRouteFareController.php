@@ -113,24 +113,6 @@ class MetroRouteFareController extends Controller
             ->orderByRaw("FIELD(id, " . implode(',', $path) . ")")
             ->get();
 
-            // Get Stations Names on the path/route
-            $linesInerchange = [];
-            foreach($stationsOnPath as $s){
-                $linesInerchange = array_merge($linesInerchange, $s->lines);
-            }
-            $linesInerchange = array_values($linesInerchange);
-            // remove unique values from the linesInterchange array; unique means the line just lies on a station but that path is not required
-            // Count the occurrences of each value in the array
-            $counts = array_count_values($linesInerchange);
-            // Remove all unique values from the array
-            foreach ($counts as $value => $count) {
-                if ($count === 1) {
-                    $linesInerchange = array_filter($linesInerchange, function ($item) use ($value) {
-                        return $item !== $value;
-                    });
-                }
-            }
-
 
             // Get interchange Stations
             $interchangeStations  = $stationsOnPath->filter(function ($station, $key) use ($stationsOnPath) {
@@ -140,10 +122,23 @@ class MetroRouteFareController extends Controller
                     $nextStationLines = $nextStation->lines;
                     sort($stationLines);
                     sort($nextStationLines);
-                    return ($stationLines !== $nextStationLines) && (count($stationLines) > count($nextStationLines));
+                    if($key !== 0){
+                        $previousStation = $stationsOnPath[$key - 1];
+                        $previousStationLines = $previousStation->lines;
+                        sort($previousStationLines);
+                        return ($stationLines !== $nextStationLines) && ($previousStationLines !== $nextStationLines) && (count($stationLines) > count($nextStationLines));
+                    } else{
+                        return ($stationLines !== $nextStationLines) && (count($stationLines) > count($nextStationLines));
+                    }
                 }
                 return false;
             });
+
+            // Get linesInterChange
+            $linesInerchange = [];
+            foreach($interchangeStations as $s){
+                $linesInerchange = array_merge($linesInerchange, $s->lines);
+            }
 
             // Return the shortest path and its distance
             $response = [
