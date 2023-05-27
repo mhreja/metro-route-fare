@@ -1,0 +1,277 @@
+﻿from,to,Distance in meter,Time B/w Stations in sec
+Shaheed Sthal(New Bus Adda),Hindon River,1050,111
+Hindon River,Arthala,1500,152
+Arthala,Mohan Nagar,780,82
+Mohan Nagar,Shyam park,1330,140
+Shyam park,Major Mohit Sharma,1170,124
+Major Mohit Sharma,Raj Bagh,1150,130
+Raj Bagh,Shaheed Nagar,1250,131
+Shaheed Nagar,Dilshad Garden,1200,126
+Dilshad Garden,Jhil Mil,900,94
+Jhil Mil,Mansarovar Park,1120,117
+Mansarovar Park,Shahdara,1120,117
+Shahdara,Welcome,1200,126
+Welcome,Seelampur,1100,115
+Seelampur,Shastri Park,1670,175
+Shastri Park,Kashmere Gate,2340,246
+Kashmere Gate,Tis Hazari,1140,106
+Tis Hazari,Pul Bangash,950,100
+Pul Bangash,Pratap Nagar,860,86
+Pratap Nagar,Shastri Nagar,1720,128
+Shastri Nagar,Inderlok,1200,109
+Inderlok,Kanhaiya Nagar,1120,107
+Kanhaiya Nagar,Keshav Puram,765,82
+Keshav Puram,Netaji Subash Place,1480,133
+Netaji Subash Place,Kohat Enclave,1270,121
+Kohat Enclave,Pitam Pura,975,102
+Pitam Pura,Rohini East,800,80
+Rohini East,Rohini West,1300,136
+Rohini West,Rithala,1140,120
+Samaypur Badli,Rohini Sector 18-19,900,73
+Rohini Sector 18-19,Haiderpur Badli Mor,1860,152
+Haiderpur Badli Mor,Jahangirpuri,1800,147
+Jahangirpuri,Adarsh Nagar,1300,106
+Adarsh Nagar,Azadpur,1470,140
+Azadpur,Model Town,1400,114
+Model Town,Guru Tegh Bahadur Nagar,1290,105
+Guru Tegh Bahadur Nagar,Vishwavidyalaya,925,75
+Vishwavidyalaya,Vidhan Sabha,1280,111
+Vidhan Sabha,Civil Lines,1160,90
+Civil Lines,Kashmere Gate,1200,134
+Kashmere Gate,Chandni Chowk,1100,98
+Chandni Chowk,Chawri Bazar,1200,78
+Chawri Bazar,New Delhi,800,227
+New Delhi,Rajiv Chowk,1380,113
+Rajiv Chowk,Patel Chowk,1300,101
+Patel Chowk,Central Secretariat,1030,152
+Central Secretariat,Udyog Bhawan,483,88
+Udyog Bhawan,Lok Kalyan Marg,1480,111
+Lok Kalyan Marg,Jorbagh,1350,108
+Jorbagh,Dilli Haat INA,1300,122
+Dilli Haat INA,AIIMS,800,86
+AIIMS,Green Park,1200,97
+Green Park,Hauz Khas,1850,125
+Hauz Khas,Malviya Nagar,1730,141
+Malviya Nagar,Saket,950,77
+Saket,Qutab Minar,1910,156
+Qutab Minar,Chhattarpur,1360,111
+Chhattarpur,Sultanpur,1600,130
+Sultanpur,Ghitorni,1350,110
+Ghitorni,Arjan Garh,2720,222
+Arjan Garh,Guru Dronacharya,2500,204
+Guru Dronacharya,Sikandarpur,1000,81
+Sikandarpur,MG Road,1300,106
+MG Road,IFFCO Chowk,1400,114
+IFFCO Chowk,Huda City Centre,1620,132
+Noida Electronic City,Noida Sector 62,1300,125
+Noida Sector 62,Noida Sector 59,1200,99
+Noida Sector 59,Noida Sector 61,1000,87
+Noida Sector 61,Noida Sector 52,1400,117
+Noida Sector 52,Noida Sector 34,1200,104
+Noida Sector 34,Noida City Centre,950,82
+Noida City Centre,Golf Course,1300,113
+Golf Course,Botanical Garden,1450,126
+Botanical Garden,Noida Sect 18,1100,95
+Noida Sect 18,Noida Sect 16,1200,104
+Noida Sect 16,Noida Sect 15,1000,87
+Noida Sect 15,New Ashok Nagar,1100,95
+New Ashok Nagar,Mayur Vihar Ext,1060,92
+Mayur Vihar Ext,Mayur Vihar-I,1200,104
+Mayur Vihar-I,Akshardham,1900,165
+Akshardham,Yamuna Bank,1590,138
+Yamuna Bank,Indraprastha,1830,158
+Indraprastha,Supreme Court,800,108
+Supreme Court,Mandi House,1000,132
+Mandi House,Barakhamba,1000,100
+Barakhamba,Rajiv Chowk,700,115
+Rajiv Chowk,RK Ashram Marg,1200,104
+RK Ashram Marg,Jhandewalan,1030,89
+Jhandewalan,Karol Bagh,1200,104
+Karol Bagh,Rajendra Place,1000,87
+Rajendra Place,Patel Nagar,978,85
+Patel Nagar,Shadi Pur,1300,113
+Shadi Pur,Kirti Nagar,860,54
+Kirti Nagar,Moti Nagar,1000,98
+Moti Nagar,Ramesh Nagar,1240,98
+Ramesh Nagar,Rajouri Garden,1000,104
+Rajouri Garden,Tagore Garden,1100,99
+Tagore Garden,Subash Nagar,900,79
+Subash Nagar,Tilak Nagar,947,87
+Tilak Nagar,Janak Puri East,1000,97
+Janak Puri East,Janak Puri West,1000,89
+Janak Puri West,Uttam Nagar East,1300,117
+Uttam Nagar East,Uttam Nagar West,1000,64
+Uttam Nagar West,Nawada,1070,93
+Nawada,Dwaraka Mor,1200,99
+Dwaraka Mor,Dwarka,1400,115
+Dwarka,Dwarka Sector - 14,1540,127
+Dwarka Sector - 14,Dwarka Sector - 13,900,83
+Dwarka Sector - 13,Dwarka Sector - 12,915,82
+Dwarka Sector - 12,Dwarka Sector - 11,1100,84
+Dwarka Sector - 11,Dwarka Sector - 10,1000,86
+Dwarka Sector - 10,Dwarka Sector - 9,1100,94
+Dwarka Sector - 9,Dwarka Sector - 8,1000,30
+Dwarka Sector - 8,Dwarka Sector - 21,1850,144
+Yamuna Bank,Laxmi Nagar,1300,118
+Laxmi Nagar,Nirman Vihar,1130,103
+Nirman Vihar,Preet Vihar,1000,87
+Preet Vihar,Karkar Duma,1200,112
+Karkar Duma,Anand Vihar,1100,95
+Anand Vihar,Kaushambi,870,82
+Kaushambi,Vaishali,1720,123
+New Delhi-Airport Express,Shivaji Stadium,2000,97
+Shivaji Stadium,Dhaula Kuan,6700,318
+Dhaula Kuan,Delhi Aerocity,6930,313
+Delhi Aerocity,IGI Airport,3450,179
+IGI Airport,Dwarka Sector 21,3320,160
+Inderlok,Ashok Park Main,1610,250
+Ashok Park Main,Punjabi Bagh,900,72
+Punjabi Bagh,Punjabi Bagh West,700,80
+Punjabi Bagh West,Shivaji Park,950,82
+Shivaji Park,Madipur,1100,105
+Madipur,Paschim Vihar (East),750,75
+Paschim Vihar (East),Paschim Vihar (West),1000,83
+Paschim Vihar (West),Peera Garhi,1000,78
+Peera Garhi,Udyog Nagar,1200,92
+Udyog Nagar,Maharaja Surajmal Stadium,700,72
+Maharaja Surajmal Stadium,Nangloi,915,84
+Nangloi,Nangloi Railway Station,851,77
+Nangloi Railway Station,Rajdhani Park,1200,92
+Rajdhani Park,Mundka,1340,95
+Mundka,Mundka Industrial Area (MIA),1300,112
+Mundka Industrial Area (MIA),Ghevra Metro station,2100,182
+Ghevra Metro station,Tikri Kalan,1880,163
+Tikri Kalan,Tikri Border,1300,112
+Tikri Border,Pandit Shree Ram Sharma,1550,134
+Pandit Shree Ram Sharma,Bahdurgarh City,1500,130
+Bahdurgarh City,Brigadier Hoshiar Singh,1800,156
+Ashok Park Main,Satguru Ram Singh Marg,1950,192
+Satguru Ram Singh Marg,Kirti Nagar,1140,110
+Kashmere Gate,Lal Quila,1500,125
+Lal Quila,Jama Masjid,850,70
+Jama Masjid,Delhi Gate,1200,100
+Delhi Gate,ITO,1300,109
+ITO,Mandi House,1000,83
+Mandi House,Janpath,1500,143
+Janpath,Central Secretariat,1450,119
+Central Secretariat,Khan Market,2420,171
+Khan Market,Jawaharlal Nehru Stadium,1500,126
+Jawaharlal Nehru Stadium,Jangpura,1000,89
+Jangpura,Lajpat Nagar,1500,66
+Lajpat Nagar,Moolchand,760,83
+Moolchand,Kailash Colony,1300,111
+Kailash Colony,Nehru Place,1100,153
+Nehru Place,Kalkaji Mandir,800,86
+Kalkaji Mandir,Govind Puri,776,64
+Govind Puri,Okhla,1400,117
+Okhla,Jasola,1120,93
+Jasola,Sarita Vihar,1200,100
+Sarita Vihar,Mohan Estate,1230,103
+Mohan Estate,Tughlakabad,2000,163
+Tughlakabad,Badarpur Border,1150,96
+Badarpur Border,Sarai,1800,151
+Sarai,N.H.P.C. Chowk,2280,191
+N.H.P.C. Chowk,Mewala Maharajpur,1050,88
+Mewala Maharajpur,Sector 28 Faridabad,1200,102
+Sector 28 Faridabad,Badkal Mor,1730,145
+Badkal Mor,Old Faridabad,1340,112
+Old Faridabad,Neelam Chowk Ajronda,1450,121
+Neelam Chowk Ajronda,Bata Chowk,1320,110
+Bata Chowk,Escorts Mujesar,1800,151
+Escorts Mujesar,Sant Surdas - Sihi,1800,160
+Sant Surdas - Sihi,Raja Nahar Singh,1700,142
+Janak Puri West,Dabri Mor - Janakpuri South,1750,167
+Dabri Mor - Janakpuri South,Dashrath Puri,1650,158
+Dashrath Puri,Palam,1550,148
+Palam,Sadar Bazaar Cantonment,3100,297
+Sadar Bazaar Cantonment,Terminal 1 IGI Airport,2000,191
+Terminal 1 IGI Airport,Shankar Vihar,2100,201
+Shankar Vihar,Vasant Vihar,2100,210
+Vasant Vihar,Munirka,1400,134
+Munirka,RK Puram,1400,132
+RK Puram,IIT Delhi,900,86
+IIT Delhi,Hauz Khas,1300,124
+Hauz Khas,Panchsheel Park,1500,137
+Panchsheel Park,Chirag Delhi,900,108
+Chirag Delhi,Greater Kailash,900,88
+Greater Kailash,Nehru Enclave,1350,123
+Nehru Enclave,Kalkaji Mandir,900,77
+Kalkaji Mandir,Okhla NSIC,800,76
+Okhla NSIC,Sukhdev Vihar,1100,105
+Sukhdev Vihar,JAMIA MILLIA ISLAMIA,1200,115
+JAMIA MILLIA ISLAMIA,Okhla Vihar,1000,95
+Okhla Vihar,Jasola Vihar Shaheen Bagh,1800,172
+Jasola Vihar Shaheen Bagh,Kalindi Kunj,2000,191
+Kalindi Kunj,Okhla Bird Sanctuary,1600,153
+Okhla Bird Sanctuary,Botanical Garden,2050,196
+Majlis Park,Azadpur,2130,174
+Azadpur,Shalimar Bagh,2000,163
+Shalimar Bagh,Netaji Subash Place,1400,114
+Netaji Subash Place,Shakurpur,1460,110
+Shakurpur,Punjabi Bagh West,1860,162
+Punjabi Bagh West,ESI BASAI DARAPUR,2500,141
+ESI BASAI DARAPUR,Rajouri Garden,1100,88
+Rajouri Garden,Maya Puri,1500,139
+Maya Puri,Naraina Vihar,1600,142
+Naraina Vihar,Delhi Cantt,1830,150
+Delhi Cantt,Durgabai Deshmukh South Campus,3800,237
+Durgabai Deshmukh South Campus,Sir Vishweshwaraiah Moti Bagh,1340,103
+Sir Vishweshwaraiah Moti Bagh,Bhikaji Cama Place,1650,126
+Bhikaji Cama Place,Sarojini Nagar,1400,108
+Sarojini Nagar,Dilli Haat INA,1100,98
+Dilli Haat INA,South Extension,1330,114
+South Extension,Lajpat Nagar,1640,134
+Lajpat Nagar,Vinobapuri,1450,105
+Vinobapuri,Ashram,1200,114
+Ashram,Sarai Kale Khan Hazrat Nizamuddin,2200,150
+Sarai Kale Khan Hazrat Nizamuddin,Mayur Vihar Phase-1,4300,257
+Mayur Vihar Phase-1,Mayur Vihar Pocket I,900,87
+Mayur Vihar Pocket I,Trilokpuri Sanjay Lake,1500,144
+Trilokpuri Sanjay Lake,Vinod Nagar East,1000,109
+Vinod Nagar East,Mandawali - West Vinod Nagar,900,103
+Mandawali - West Vinod Nagar,IP Extension,1400,134
+IP Extension,Anand Vihar,2100,220
+Anand Vihar,Karkar Duma,1000,81
+Karkar Duma,Karkarduma Court,1400,114
+Karkarduma Court,Krishna Nagar,800,65
+Krishna Nagar,East Azad Nagar,1000,85
+East Azad Nagar,Welcome,1240,101
+Welcome,Jaffrabad,2000,163
+Jaffrabad,Maujpur,1150,94
+Maujpur,Gokulpuri,1300,106
+Gokulpuri,Johri Enclave,1330,108
+Johri Enclave,Shiv Vihar,1000,81
+Noida Sector 51,Noida Sector 50,1300,122
+Noida Sector 50,Noida Sector 76,1000,89
+Noida Sector 76,Noida Sector 101,1200,104
+Noida Sector 101,Noida Sector 81,900,87
+Noida Sector 81,NSEZ Noida,2000,156
+NSEZ Noida,Noida Sector 83,1200,110
+Noida Sector 83,Noida Sector 137,1500,112
+Noida Sector 137,Noida Sector 142,1660,137
+Noida Sector 142,Noida Sector 143,1100,96
+Noida Sector 143,Noida Sector 144,1400,110
+Noida Sector 144,Noida Sector 145,1200,104
+Noida Sector 145,Noida Sector 146,1700,158
+Noida Sector 146,Noida Sector 147,1500,115
+Noida Sector 147,Noida Sector 148,1650,122
+Noida Sector 148,Knowledge Park II,3000,254
+Knowledge Park II,Pari Chowk Greater Noida,1100,93
+Pari Chowk Greater Noida,Alpha 1 Greater Noida,1150,97
+Alpha 1 Greater Noida,Delta 1 Greater Noida,1550,131
+Delta 1 Greater Noida,GNIDA Office,1300,110
+GNIDA Office,Depot Greater Noida,900,76
+Sector 55-66 (Rapid Metro),Sector 54 Chowk (Rapid Metro),1100,110
+Sector 54 Chowk (Rapid Metro),Sector 53-54 (Rapid Metro),1570,157
+Sector 53-54 (Rapid Metro),Sector 42-43 (Rapid Metro),1300,130
+Sector 42-43 (Rapid Metro),DLF Phase 1 (Rapid Metro),1600,160
+DLF Phase 1 (Rapid Metro),Sikandarpur (Rapid Metro),1300,130
+Sikandarpur (Rapid Metro),DLF Phase 2 (Rapid Metro),900,90
+DLF Phase 2 (Rapid Metro),Belvedere Towers (Rapid Metro),700,80
+Belvedere Towers (Rapid Metro),Cyber City (Rapid Metro),800,80
+Cyber City (Rapid Metro),Moulsari Avenue (Rapid Metro),700,70
+Moulsari Avenue (Rapid Metro),DLF Phase 3 (Rapid Metro),1000,90
+DLF Phase 3 (Rapid Metro),DLF Phase 2 (Rapid Metro),700,70
+Dwarka,Nangli,1690,132
+Nangli,Najafgarh,2400,140
+Najafgarh,Dhansa Bus Stand,850,57

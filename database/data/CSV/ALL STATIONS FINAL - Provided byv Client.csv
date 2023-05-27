@@ -1,0 +1,315 @@
+﻿METRO STATION ,Distance,Time B/w Stations (IN MINS),Stoppage Time(In secs)
+RED LINE ,,,
+Shaheed Sthal(New Bus Adda),0,,1.2
+Hindon River,1.05,1.51,22
+Arthala,1.5,2.32,16
+Mohan Nagar,0.78,1.22,20
+Shyam park,1.33,2.2,14
+Major Mohit Sharma,1.17,2.04,18
+Raj Bagh,1.15,2.1,19
+Shaheed Nagar,1.25,2.11,21
+Dilshad Garden,1.2,2.06,13
+Jhil Mil,0.9,1.34,15
+Mansarovar Park,1.12,1.57,14
+Shahdara,1.12,1.57,17
+Welcome(Conn PINK LINE),1.2,2.06,33
+Seelampur,1.1,1.55,16
+Shastri Park,1.67,2.55,24
+Kashmere Gate(CONN VIOLET AND YELLOW LINE ),2.34,4.06,26
+Tis Hazari,1.14,1.46,14
+Pul Bangash,0.95,1.4,15
+Pratap Nagar,0.86,1.26,15
+Shastri Nagar,1.72,2.08,15
+Inderlok(Conn GREEN LINE),1.2,1.49,22
+Kanhaiya Nagar,1.12,1.47,19
+Keshav Puram,0.765,1.22,16
+Netaji Subash Place(CONN PINK LINE),1.48,2.13,20
+Kohat Enclave,1.27,2.01,19
+Pitam Pura,0.975,1.42,14
+Rohini East,0.8,1.2,17
+Rohini West,1.3,2.16,23
+Rithala,1.14,2,40
+,,,
+,,,
+YELLOW LINE,,,
+Samaypur Badli,0,,2.58
+Rohini Sector 18-19,0.9,1.13,23
+Haiderpur Badli Mor,1.86,2.32,31
+Jahangirpuri,1.8,2.27,15
+Adarsh Nagar,1.3,1.46,19
+Azadpur(Conn PINK LINE),1.47,2.2,39
+Model Town,1.4,1.54,23
+Guru Tegh Bahadur Nagar,1.29,1.45,27
+Vishwavidyalaya,0.925,1.15,18
+Vidhan Sabha,1.28,1.51,17
+Civil Lines,1.16,1.3,18
+Kashmere Gate(CONN VIOLET AND Red LINE ),1.2,2.14,20
+Chandni Chowk,1.1,1.38,17
+Chawri Bazar,1.2,1.18,17
+New Delhi(Conn Orange LINE),0.8,3.47,40
+Rajiv Chowk(CONN BLUE LINE),1.38,1.53,1.5
+Patel Chowk,1.3,1.41,13
+Central Secretariat(CONN VIOLET LINE),1.03,2.32,15
+Udyog Bhawan,0.483,1.28,15
+Lok Kalyan Marg,1.48,1.51,18
+Jorbagh,1.35,1.48,1.13
+Dilli Haat INA(Conn PINK LINE),1.3,2.02,20
+AIIMS,0.8,1.26,18
+Green Park,1.2,1.37,47
+Hauz Khas(Conn Magenta Line),1.85,2.05,18
+Malviya Nagar,1.73,2.21,20
+Saket,0.95,1.17,22
+Qutab Minar,1.91,2.36,29
+Chhattarpur,1.36,1.51,23
+Sultanpur,1.6,2.1,15
+Ghitorni,1.35,1.5,19
+Arjan Garh,2.72,3.42,29
+Guru Dronacharya,2.5,3.24,21
+Sikandarpur(Conn Rapid Metro),1,1.21,36
+MG Road,1.3,1.46,19
+IFFCO Chowk,1.4,1.54,29
+Huda City Centre,1.62,2.12,1.5
+,,,
+,,,
+BLUE LINE,,,
+Noida Electronic City,0,,2.23
+Noida Sector 62,1.3,2.05,16
+Noida Sector 59,1.2,1.39,19
+Noida Sector 61,1,1.27,21
+Noida Sector 52(Conn AQUA),1.4,1.57,27
+Noida Sector 34,1.2,1.44,18
+Noida City Centre,0.95,1.22,25
+Golf Course,1.3,1.53,23
+Botanical Garden(Conn Magenta),1.45,2.06,39
+Noida Sect 18,1.1,1.35,26
+Noida Sect 16,1.2,1.44,13
+Noida Sect 15,1,1.27,17
+New Ashok Nagar,1.1,1.35,21
+Mayur Vihar Ext,1.06,1.32,34
+Mayur Vihar-I(Conn PINK LINE),1.2,1.44,43
+Akshardham,1.9,2.45,16
+Yamuna Bank,1.59,2.18,31
+Indraprastha,1.83,2.38,22
+Supreme Court,0.8,1.48,14
+Mandi House(Conn Violet ),1,2.12,24
+Barakhamba,1,1.4,14
+Rajiv Chowk(Conn Yellow),0.7,1.55,1.23
+RK Ashram Marg,1.2,1.44,15
+Jhandewalan,1.03,1.29,19
+Karol Bagh,1.2,1.44,22
+Rajendra Place,1,1.27,12
+Patel Nagar,0.978,1.25,18
+Shadi Pur,1.3,1.53,23
+Kirti Nagar(Conn Green),0.86,0.54,1.33
+Moti Nagar,1,1.38,21
+Ramesh Nagar,1.24,1.38,7
+Rajouri Garden(Conn PINK),1,1.44,18
+Tagore Garden,1.1,1.39,0.47
+Subash Nagar,0.9,1.19,14
+Tilak Nagar,0.947,1.27,29
+Janak Puri East,1,1.37,17
+Janak Puri West(Conn Magenta),1,1.29,22
+Uttam Nagar East,1.3,1.57,18
+Uttam Nagar West,1,1.04,33
+Nawada,1.07,1.33,18
+Dwaraka Mor,1.2,1.39,47
+Dwarka(Conn Gray Line),1.4,1.55,44
+Dwarka Sector - 14,1.54,2.07,38
+Dwarka Sector - 13,0.9,1.23,22
+Dwarka Sector - 12,0.915,1.22,17
+Dwarka Sector - 11,1.1,1.24,23
+Dwarka Sector - 10,1,1.26,23
+Dwarka Sector - 9,1.1,1.34,35
+Dwarka Sector - 8,1,0.3,57
+Dwarka Sector - 21(Conn ORANGE Line),1.85,2.24,2.06
+Alternate Branch ,,,
+Yamuna Bank,0,,27
+Laxmi Nagar,1.3,1.58,25
+Nirman Vihar,1.13,1.43,10
+Preet Vihar,1,1.27,26
+Karkar Duma,1.2,1.52,32
+Anand Vihar,1.1,1.35,17
+Kaushambi,0.87,1.22,20
+Vaishali,1.72,2.03,2
+,,,
+Airport Express(Orange Line),,,
+New Delhi-Airport Express(Conn Yellow),0,,3.38
+Shivaji Stadium,2,1.37,34
+Dhaula Kuan(Conn PINK),6.7,5.18,28
+Delhi Aerocity,6.93,5.13,39
+IGI Airport,3.45,2.59,50
+Dwarka Sector 21(CONN BLUE),3.32,2.4,1.12
+,,,
+Green Line,,,
+Inderlok(Conn Red),0,,
+Ashok Park Main,1.61,4.1,2.6
+Punjabi Bagh,0.9,1.12,17
+Punjabi Bagh West,0.7,1.2,23
+Shivaji Park,0.95,1.22,14
+Madipur,1.1,1.45,19
+Paschim Vihar (East),0.75,1.15,17
+Paschim Vihar (West),1,1.23,19
+Peera Garhi,1,1.18,32
+Udyog Nagar,1.2,1.32,19
+Maharaja Surajmal Stadium,0.7,1.12,22
+Nangloi,0.915,1.24,23
+Nangloi Railway Station,0.851,1.17,16
+Rajdhani Park,1.2,1.32,28
+Mundka,1.34,1.35,14
+Mundka Industrial Area (MIA),1.3,1.52,21
+Ghevra Metro station,2.1,3.02,13
+Tikri Kalan,1.88,2.43,19
+Tikri Border,1.3,1.52,31
+Pandit Shree Ram Sharma,1.55,2.14,10
+Bahdurgarh City,1.5,2.1,13
+Brigadier Hoshiar Singh,1.8,2.36,1.1
+Alternate Branch from Ashok Park Main,,,
+Ashok Park Main,0,,2.06
+Satguru Ram Singh Marg,1.95,3.12,10
+Kirti Nagar(Conn BLUE LINE),1.14,1.5,4.18
+,,,
+Violet Line,,,
+Kashmere Gate(Conn YELLOW And Red),0,,2.4
+Lal Quila,1.5,2.05,29
+Jama Masjid,0.85,1.1,26
+Delhi Gate,1.2,1.4,18
+ITO,1.3,1.49,28
+Mandi House(Conn Blue Line),1,1.23,23
+Janpath,1.5,2.23,15
+Central Secretariat(Conn Yellow),1.45,1.59,20
+Khan Market,2.42,2.51,21
+Jawaharlal Nehru Stadium,1.5,2.06,35
+Jangpura,1,1.29,20
+Lajpat Nagar(Conn PINK LINE),1.5,1.06,18
+Moolchand,0.76,1.23,28
+Kailash Colony,1.3,1.51,25
+Nehru Place,1.1,2.33,39
+Kalkaji Mandir(CONN MAGENTA LINE),0.8,1.26,22
+Govind Puri,0.776,1.04,12
+Okhla,1.4,1.57,19
+Jasola,1.12,1.33,26
+Sarita Vihar,1.2,1.4,17
+Mohan Estate,1.23,1.43,19
+Tughlakabad,2,2.43,26
+Badarpur Border,1.15,1.36,31
+Sarai,1.8,2.31,19
+N.H.P.C. Chowk,2.28,3.11,25
+Mewala Maharajpur,1.05,1.28,31
+Sector 28 Faridabad,1.2,1.42,26
+Badkal Mor,1.73,2.25,22
+Old Faridabad,1.34,1.52,34
+Neelam Chowk Ajronda,1.45,2.01,17
+Bata Chowk,1.32,1.5,27
+Escorts Mujesar,1.8,2.31,41
+Sant Surdas - Sihi,1.8,2.4,16
+Raja Nahar Singh,1.7,2.22,2.23
+,,,
+MAGENTA LINE,,,
+Janak Puri West(Conn BLUE LINE),0,,2
+Dabri Mor - Janakpuri South,1.75,2.47,29
+Dashrath Puri,1.65,2.38,24
+Palam,1.55,2.28,16
+Sadar Bazaar Cantonment,3.1,4.57,19
+Terminal 1 IGI Airport,2,3.11,34
+Shankar Vihar,2.1,3.21,17
+Vasant Vihar,2.1,3.3,25
+Munirka,1.4,2.14,24
+RK Puram,1.4,2.12,43
+IIT Delhi,0.9,1.26,32
+Hauz Khas(Conn Yellow),1.3,2.04,28
+Panchsheel Park,1.5,2.17,20
+Chirag Delhi,0.9,1.48,22
+Greater Kailash,0.9,1.28,20
+Nehru Enclave,1.35,2.03,21
+Kalkaji Mandir(Conn Violet),0.9,1.17,28
+Okhla NSIC,0.8,1.16,23
+Sukhdev Vihar,1.1,1.45,33
+JAMIA MILLIA ISLAMIA,1.2,1.55,27
+Okhla Vihar,1,1.35,33
+Jasola Vihar Shaheen Bagh,1.8,2.52,22
+Kalindi Kunj,2,3.11,41
+Okhla Bird Sanctuary,1.6,2.33,21
+Botanical Garden(Conn BLUE),2.05,3.16,3.3
+,,,
+PINK LINE,,,
+Majlis Park,0,,2.1
+Azadpur(Conn YELLOW LINE),2.13,2.54,47
+Shalimar Bagh,2,2.43,19
+Netaji Subash Place(Conn Red LINE),1.4,1.54,27
+Shakurpur,1.46,1.5,23
+Punjabi Bagh West,1.86,2.42,33
+ESI BASAI DARAPUR,2.5,2.21,25
+Rajouri Garden(Conn Blue LINE),1.1,1.28,31
+Maya Puri,1.5,2.19,24
+Naraina Vihar,1.6,2.22,16
+Delhi Cantt,1.83,2.3,17
+Durgabai Deshmukh South Campus(Conn Orange line)??,3.8,3.57,18
+Sir Vishweshwaraiah Moti Bagh,1.34,1.43,33
+Bhikaji Cama Place,1.65,2.06,34
+Sarojini Nagar,1.4,1.48,29
+Dilli Haat INA(Conn YeLLOW LINE),1.1,1.38,23
+South Extension,1.33,1.54,18
+Lajpat Nagar(Conn VIOLET LINE),1.64,2.14,24
+Vinobapuri,1.45,1.45,33
+Ashram,1.2,1.54,33
+Sarai Kale Khan Hazrat Nizamuddin,2.2,2.3,29
+Mayur Vihar Phase-1(Conn BLUE LINE),4.3,4.17,30
+Mayur Vihar Pocket I,0.9,1.27,22
+Trilokpuri Sanjay Lake,1.5,2.24,21
+Vinod Nagar East,1,1.49,25
+Mandawali - West Vinod Nagar,0.9,1.43,22
+IP Extension,1.4,2.14,23
+Anand Vihar(Conn Blue Line),2.1,3.4,31
+Karkar Duma(Conn Blue Line),1,1.21,18
+Karkarduma Court,1.4,1.54,20
+Krishna Nagar,0.8,1.05,14
+East Azad Nagar,1,1.25,16
+Welcome(Conn RED LINE),1.24,1.41,51
+Jaffrabad,2,2.43,18
+Maujpur,1.15,1.34,36
+Gokulpuri,1.3,1.46,16
+Johri Enclave,1.33,1.48,15
+Shiv Vihar,1,1.21,1.5
+,,,
+AQUA LINE,,,
+Noida Sector 51(Conn BLUE LINE),0,,4.43
+Noida Sector 50,1.3,2.02,13
+Noida Sector 76,1,1.29,15
+Noida Sector 101,1.2,1.44,10
+Noida Sector 81,0.9,1.27,12
+NSEZ Noida,2,2.36,13
+Noida Sector 83,1.2,1.5,13
+Noida Sector 137,1.5,1.52,14
+Noida Sector 142,1.66,2.17,13
+Noida Sector 143,1.1,1.36,12
+Noida Sector 144,1.4,1.5,10
+Noida Sector 145,1.2,1.44,11
+Noida Sector 146,1.7,2.38,11
+Noida Sector 147,1.5,1.55,20
+Noida Sector 148,1.65,2.02,15
+Knowledge Park II,3,4.14,18
+Pari Chowk Greater Noida,1.1,1.33,14
+Alpha 1 Greater Noida,1.15,1.37,13
+Delta 1 Greater Noida,1.55,2.11,21
+GNIDA Office,1.3,1.5,19
+Depot Greater Noida,0.9,1.16,3.23
+,,,
+RAPID METRO,,,
+Sector 55-66 (Rapid Metro),0,,1.3
+Sector 54 Chowk (Rapid Metro),1.1,1.5,22
+Sector 53-54 (Rapid Metro),1.57,2.37,26
+Sector 42-43 (Rapid Metro),1.3,2.1,23
+DLF Phase 1 (Rapid Metro),1.6,2.4,21
+Sikandarpur (Rapid Metro)(Conn Yellow Line),1.3,2.1,1.5
+DLF Phase 2 (Rapid Metro),0.9,1.3,21
+Belvedere Towers (Rapid Metro),0.7,1.2,19
+Cyber City (Rapid Metro),0.8,1.2,27
+Moulsari Avenue (Rapid Metro),0.7,1.1,32
+DLF Phase 3 (Rapid Metro),1,1.3,22
+DLF Phase 2 (Rapid Metro),0.7,1.1,41
+,,,
+Gray Line,,,
+Dwarka(Conn BLUE LINE),0,,1.2
+Nangli,1.69,2.12,22
+Najafgarh,2.4,2.2,1.12
+Dhansa Bus Stand,0.85,0.57,1.5

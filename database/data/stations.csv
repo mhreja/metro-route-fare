@@ -1,0 +1,266 @@
+﻿Station Name,Lines,Stoppage Time in Seconds
+Shaheed Sthal(New Bus Adda),red,80
+Hindon River,red,1320
+Arthala,red,960
+Mohan Nagar,red,1200
+Shyam park,red,840
+Major Mohit Sharma,red,1080
+Raj Bagh,red,1140
+Shaheed Nagar,red,1260
+Dilshad Garden,red,780
+Jhil Mil,red,900
+Mansarovar Park,red,840
+Shahdara,red,1020
+Welcome,"red,pink",1980
+Seelampur,red,960
+Shastri Park,red,1440
+Kashmere Gate,"red,violet,yellow",1560
+Tis Hazari,red,840
+Pul Bangash,red,900
+Pratap Nagar,red,900
+Shastri Nagar,red,900
+Inderlok,"red,green",1320
+Kanhaiya Nagar,red,1140
+Keshav Puram,red,960
+Netaji Subash Place,"red,pink",1200
+Kohat Enclave,red,1140
+Pitam Pura,red,840
+Rohini East,red,1020
+Rohini West,red,1380
+Rithala,red,2400
+Samaypur Badli,yellow,178
+Rohini Sector 18-19,yellow,1380
+Haiderpur Badli Mor,yellow,1860
+Jahangirpuri,yellow,900
+Adarsh Nagar,yellow,1140
+Azadpur,"yellow,pink",2340
+Model Town,yellow,1380
+Guru Tegh Bahadur Nagar,yellow,1620
+Vishwavidyalaya,yellow,1080
+Vidhan Sabha,yellow,1020
+Civil Lines,yellow,1080
+Chandni Chowk,yellow,1020
+Chawri Bazar,yellow,1020
+New Delhi,"yellow,orange",2400
+Rajiv Chowk,"yellow,blue",110
+Patel Chowk,yellow,780
+Central Secretariat,"yellow,violet",900
+Udyog Bhawan,yellow,900
+Lok Kalyan Marg,yellow,1080
+Jorbagh,yellow,73
+Dilli Haat INA,"yellow,pink",1200
+AIIMS,yellow,1080
+Green Park,yellow,2820
+Hauz Khas,"yellow,magenta",1080
+Malviya Nagar,yellow,1200
+Saket,yellow,1320
+Qutab Minar,yellow,1740
+Chhattarpur,yellow,1380
+Sultanpur,yellow,900
+Ghitorni,yellow,1140
+Arjan Garh,yellow,1740
+Guru Dronacharya,yellow,1260
+Sikandarpur,"yellow,rapid",2160
+MG Road,yellow,1140
+IFFCO Chowk,yellow,1740
+Huda City Centre,yellow,110
+Noida Electronic City,blue,143
+Noida Sector 62,blue,960
+Noida Sector 59,blue,1140
+Noida Sector 61,blue,1260
+Noida Sector 52,"blue,aqua",1620
+Noida Sector 34,blue,1080
+Noida City Centre,blue,1500
+Golf Course,blue,1380
+Botanical Garden,"blue,magenta",2340
+Noida Sect 18,blue,1560
+Noida Sect 16,blue,780
+Noida Sect 15,blue,1020
+New Ashok Nagar,blue,1260
+Mayur Vihar Ext,blue,2040
+Mayur Vihar-I,"blue,pink",2580
+Akshardham,blue,960
+Yamuna Bank,blue,1860
+Indraprastha,blue,1320
+Supreme Court,blue,840
+Mandi House,"blue,violet",1440
+Barakhamba,blue,840
+RK Ashram Marg,blue,900
+Jhandewalan,blue,1140
+Karol Bagh,blue,1320
+Rajendra Place,blue,720
+Patel Nagar,blue,1080
+Shadi Pur,blue,1380
+Kirti Nagar,"blue,green",93
+Moti Nagar,blue,1260
+Ramesh Nagar,blue,420
+Rajouri Garden,"blue,pink",1080
+Tagore Garden,blue,47
+Subash Nagar,blue,840
+Tilak Nagar,blue,1740
+Janak Puri East,blue,1020
+Janak Puri West,"blue,magenta",1320
+Uttam Nagar East,blue,1080
+Uttam Nagar West,blue,1980
+Nawada,blue,1080
+Dwaraka Mor,blue,2820
+Dwarka,"blue,gray",2640
+Dwarka Sector - 14,blue,2280
+Dwarka Sector - 13,blue,1320
+Dwarka Sector - 12,blue,1020
+Dwarka Sector - 11,blue,1380
+Dwarka Sector - 10,blue,1380
+Dwarka Sector - 9,blue,2100
+Dwarka Sector - 8,blue,3420
+Dwarka Sector - 21,"blue,orange",126
+Laxmi Nagar,blue,1500
+Nirman Vihar,blue,600
+Preet Vihar,blue,1560
+Karkar Duma,"blue,pink",1920
+Anand Vihar,"blue,pink",1020
+Kaushambi,blue,1200
+Vaishali,blue,120
+New Delhi-Airport Express,"orange,yellow",218
+Shivaji Stadium,orange,2040
+Dhaula Kuan,"orange,pink",1680
+Delhi Aerocity,orange,2340
+IGI Airport,orange,3000
+Dwarka Sector 21,"orange,blue",72
+Ashok Park Main,green,180
+Punjabi Bagh,green,1020
+Punjabi Bagh West,"green,pink",1380
+Shivaji Park,green,840
+Madipur,green,1140
+Paschim Vihar (East),green,1020
+Paschim Vihar (West),green,1140
+Peera Garhi,green,1920
+Udyog Nagar,green,1140
+Maharaja Surajmal Stadium,green,1320
+Nangloi,green,1380
+Nangloi Railway Station,green,960
+Rajdhani Park,green,1680
+Mundka,green,840
+Mundka Industrial Area (MIA),green,1260
+Ghevra Metro station,green,780
+Tikri Kalan,green,1140
+Tikri Border,green,1860
+Pandit Shree Ram Sharma,green,600
+Bahdurgarh City,green,780
+Brigadier Hoshiar Singh,green,70
+Satguru Ram Singh Marg,green,600
+Lal Quila,violet,1740
+Jama Masjid,violet,1560
+Delhi Gate,violet,1080
+ITO,violet,1680
+Janpath,violet,900
+Khan Market,violet,1260
+Jawaharlal Nehru Stadium,violet,2100
+Jangpura,violet,1200
+Lajpat Nagar,"violet,pink",1080
+Moolchand,violet,1680
+Kailash Colony,violet,1500
+Nehru Place,violet,2340
+Kalkaji Mandir,"violet,magenta",1320
+Govind Puri,violet,720
+Okhla,violet,1140
+Jasola,violet,1560
+Sarita Vihar,violet,1020
+Mohan Estate,violet,1140
+Tughlakabad,violet,1560
+Badarpur Border,violet,1860
+Sarai,violet,1140
+N.H.P.C. Chowk,violet,1500
+Mewala Maharajpur,violet,1860
+Sector 28 Faridabad,violet,1560
+Badkal Mor,violet,1320
+Old Faridabad,violet,2040
+Neelam Chowk Ajronda,violet,1020
+Bata Chowk,violet,1620
+Escorts Mujesar,violet,2460
+Sant Surdas - Sihi,violet,960
+Raja Nahar Singh,violet,143
+Dabri Mor - Janakpuri South,magenta,1740
+Dashrath Puri,magenta,1440
+Palam,magenta,960
+Sadar Bazaar Cantonment,magenta,1140
+Terminal 1 IGI Airport,magenta,2040
+Shankar Vihar,magenta,1020
+Vasant Vihar,magenta,1500
+Munirka,magenta,1440
+RK Puram,magenta,2580
+IIT Delhi,magenta,1920
+Panchsheel Park,magenta,1200
+Chirag Delhi,magenta,1320
+Greater Kailash,magenta,1200
+Nehru Enclave,magenta,1260
+Okhla NSIC,magenta,1380
+Sukhdev Vihar,magenta,1980
+JAMIA MILLIA ISLAMIA,magenta,1620
+Okhla Vihar,magenta,1980
+Jasola Vihar Shaheen Bagh,magenta,1320
+Kalindi Kunj,magenta,2460
+Okhla Bird Sanctuary,magenta,1260
+Majlis Park,pink,130
+Shalimar Bagh,pink,1140
+Shakurpur,pink,1380
+ESI BASAI DARAPUR,pink,1500
+Maya Puri,pink,1440
+Naraina Vihar,pink,960
+Delhi Cantt,pink,1020
+Durgabai Deshmukh South Campus,"pink,orange",1080
+Sir Vishweshwaraiah Moti Bagh,pink,1980
+Bhikaji Cama Place,pink,2040
+Sarojini Nagar,pink,1740
+South Extension,pink,1080
+Vinobapuri,pink,1980
+Ashram,pink,1980
+Sarai Kale Khan Hazrat Nizamuddin,pink,1740
+Mayur Vihar Phase-1,"pink,blue",1800
+Mayur Vihar Pocket I,pink,1320
+Trilokpuri Sanjay Lake,pink,1260
+Vinod Nagar East,pink,1500
+Mandawali - West Vinod Nagar,pink,1320
+IP Extension,pink,1380
+Karkarduma Court,pink,1200
+Krishna Nagar,pink,840
+East Azad Nagar,pink,960
+Jaffrabad,pink,1080
+Maujpur,pink,2160
+Gokulpuri,pink,960
+Johri Enclave,pink,900
+Shiv Vihar,pink,110
+Noida Sector 51,"aqua,blue",283
+Noida Sector 50,aqua,780
+Noida Sector 76,aqua,900
+Noida Sector 101,aqua,600
+Noida Sector 81,aqua,720
+NSEZ Noida,aqua,780
+Noida Sector 83,aqua,780
+Noida Sector 137,aqua,840
+Noida Sector 142,aqua,780
+Noida Sector 143,aqua,720
+Noida Sector 144,aqua,600
+Noida Sector 145,aqua,660
+Noida Sector 146,aqua,660
+Noida Sector 147,aqua,1200
+Noida Sector 148,aqua,900
+Knowledge Park II,aqua,1080
+Pari Chowk Greater Noida,aqua,840
+Alpha 1 Greater Noida,aqua,780
+Delta 1 Greater Noida,aqua,1260
+GNIDA Office,aqua,1140
+Depot Greater Noida,aqua,203
+Sector 55-66 (Rapid Metro),rapid,90
+Sector 54 Chowk (Rapid Metro),rapid,1320
+Sector 53-54 (Rapid Metro),rapid,1560
+Sector 42-43 (Rapid Metro),rapid,1380
+DLF Phase 1 (Rapid Metro),rapid,1260
+Sikandarpur (Rapid Metro),"rapid,yellow",110
+DLF Phase 2 (Rapid Metro),rapid,1260
+Belvedere Towers (Rapid Metro),rapid,1140
+Cyber City (Rapid Metro),rapid,1620
+Moulsari Avenue (Rapid Metro),rapid,1920
+DLF Phase 3 (Rapid Metro),rapid,1320
+Nangli,gray,1320
+Najafgarh,gray,72
+Dhansa Bus Stand,gray,110
